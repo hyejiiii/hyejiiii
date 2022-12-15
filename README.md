@@ -1,5 +1,4 @@
-### Hi I'm studying to be a Backend developer 👋
-### Maybe FullStack, too...
+### Hi 👋
 <!--My Blog is []-->
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejiiii&layout=compact)](https://github.com/hyejiiii/githubreadme-stats)
